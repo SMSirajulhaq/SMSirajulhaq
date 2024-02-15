@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SMSirajulhaq
-- 👀 I’m interested in Civil Engineering & Entrepreneurship. 
-- 🌱 I’m currently learning Civil Engineering (BIM)
-- 💞️ I’m looking to collaborate on nothing rn 
-- 📫 How to reach me: sirajulhaq.in 
+- 👋 Hi, I’m Sirajulhaq
+- 👀 Interested in Civil Engineering & Entrepreneurship. 
+- 🌱 Currently learning Civil Engineering (BIM)
+- 💞️ Not looking for collaboration rn 
+- 📫 How to reach me: Call/Text me at +917032407568 
 
 <!---
 SMSirajulhaq/SMSirajulhaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
