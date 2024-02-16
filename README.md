@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sirajulhaq
+- 👋 Hi, I’m Siraj 
 - 👀 Interested in Civil Engineering & Entrepreneurship. 
-- 🌱 Currently learning Civil Engineering (BIM)
-- 💞️ Not looking for collaboration rn 
+- 🌱 Currently building Cupping.app and Sirajulhaq.in 
+- 💞️ Not looking for any collaboration right now 
 - 📫 How to reach me: Call/Text at +917032407568 
 
 <!---
