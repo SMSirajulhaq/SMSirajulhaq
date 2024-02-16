@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Siraj 
+- 👋 Hello World, I’m Siraj! 
 - 👀 Interested in Civil Engineering & Entrepreneurship. 
 - 🌱 Currently building Cupping.app and Sirajulhaq.in 
 - 💞️ Not looking for any collaboration right now 
