@@ -45,7 +45,7 @@ data-canonical-src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style= "max-width: 100%;">
   </a>
   <a href="https://Sirajulhaq.substack.com" rel="nofollow">
-    <img src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" alt="Substack Blog" data-canonical-src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=orange" alt="Substack Blog" data-canonical-src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" style="max-width: 100%;">
   </a>
   <a href="https://instagram.com/s.m.sirajulhaq" rel="nofollow">
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style-for-the-badge&logo=instagram&logoColor=blueviolet%20alt=instagram" data-canonical-src="https://img.shields.io/badge/instagram-%23000000.svg?&style-for-the-badge&logo=instagram&logoColor=blueviolet%20alt=instagram" style="max-width: 100%;">
