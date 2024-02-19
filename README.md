@@ -1,4 +1,4 @@
-<h1>Hello World, I’m Siraj! </h1>
+<h1>Hello World, I’m Siraj!</h1>
 
 <h3>I'm interested in Civil Engineering & Entrepreneurship—currently building Cupping.app and Sirajulhaq.in</h3>
 Call/Text at +917032407568 
@@ -16,12 +16,10 @@ Call/Text at +917032407568
 
 <h3>Areas of expertise</h3>
 
-- Floor Planning 
-- Site Execution 
-- Content Writing 
-- Startup Operations 
-
-<br>
+- 🏢 Floor Planning 
+- 🚧 Site Execution 
+- ✍🏻 Content Writing 
+- ⚙️ Startup Operations 
 
 <h2 align="center" dir="auto">
   <a id="user-content-connect-with-me" class="anchor" aria-hidden="true" tabindex="-1" href="#connect-with-me">
@@ -29,7 +27,7 @@ Call/Text at +917032407568
       <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
     </svg>
   </a> 
-  Connect with Me
+  Connect with Me!
 </h2>
 
 <div align="center" dir="auto"> 
@@ -37,10 +35,6 @@ Call/Text at +917032407568
     <img src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?&style=for-the-badge&logo=healthinesses&logoColor=blueviolet%20alt=website" 
 data-canonical-src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?&style=for-the-badge&logo=healthinesses&logoColor=blueviolet%20alt=website" style="max-width: 100%;">
   </a>
-
-  <!-- <a href="#" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/10163c8 6573266" data-nical-src="https://img.shields.io/badge/%20- RESUME-lightgrey.sv g?&style-for-the-badge&logo-healthinesses&logoColor=blueviolet%20alt-w ebsite" style="max-width: 100%;"> 
-  </a> --> 
 
   <a href="https://twitter.com/sirajulhaq_in" rel="nofollow">
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;">
@@ -59,9 +53,12 @@ data-canonical-src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?
   <a href="https://Sirajulhaq.substack.com" rel="nofollow">
     <img src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=orange" alt="Substack Blog" data-canonical-src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" style="max-width: 120%;">
   </a>
-<!--  <a href="#" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/69e4def 652d626" alt="f acebook" data-canonical-src="https://img.shields.io/badge/facebook-%23 2E87FB.svg?&style-for-the-badge&logo=facebook&logoColor=white" style= "max-width: 100%;">
-  </a> -->
+<!--<a href="#" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/10163c8 6573266" data-nical-src="https://img.shields.io/badge/%20- RESUME-lightgrey.sv g?&style-for-the-badge&logo-healthinesses&logoColor=blueviolet%20alt-w ebsite" style="max-width: 100%;"> 
+    </a>
+    <a href="#" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/69e4def 652d626" alt="f acebook" data-canonical-src="https://img.shields.io/badge/facebook-%23 2E87FB.svg?&style-for-the-badge&logo=facebook&logoColor=white" style= "max-width: 100%;">
+    </a> -->
 </div>
 
 
