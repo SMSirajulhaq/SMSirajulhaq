@@ -1,7 +1,7 @@
 Hello World, I’m Siraj! 
 
 I'm interested in Civil Engineering & Entrepreneurship. Currently building Cupping.app and Sirajulhaq.in 
-Call/Text at +917032407568 
+<br> Call/Text at +917032407568 
 
 <h2 align="center" dir="auto">Core team - Cuppng.app | Author - Transcribing Self | Civil Engineer - Independent</h2>
 
