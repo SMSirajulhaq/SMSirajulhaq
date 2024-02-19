@@ -35,20 +35,25 @@ Call/Text at +917032407568
     <img src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?&style=for-the-badge&logo=healthinesses&logoColor=blueviolet%20alt=website" 
 data-canonical-src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?&style=for-the-badge&logo=healthinesses&logoColor=blueviolet%20alt=website" style="max-width: 100%;">
   </a>
+
   <!-- <a href="#" rel="nofollow">
     <img src="https://camo.githubusercontent.com/10163c8 6573266" data-nical-src="https://img.shields.io/badge/%20- RESUME-lightgrey.sv g?&style-for-the-badge&logo-healthinesses&logoColor=blueviolet%20alt-w ebsite" style="max-width: 100%;"> 
   </a> --> 
+
   <a href="https://twitter.com/sirajulhaq_in" rel="nofollow">
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;">
   </a>
+
   <a href="https://linkedin.com/in/syedmohammedsirajulhaq" rel="nofollow">
     <img src="https://img.shields.io/badge/%20-linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style= "max-width: 100%;">
   </a>
-  <a href="https://Sirajulhaq.substack.com" rel="nofollow">
-    <img src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=orange" alt="Substack Blog" data-canonical-src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" style="max-width: 100%;">
-  </a>
+
   <a href="https://instagram.com/s.m.sirajulhaq" rel="nofollow">
     <img src="https://camo.githubusercontent.com/b7d786f87909f9592878dacf644337d6791e6cce6b761934cc5bb56d81c8cc82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d626c756576696f6c6574253230616c743d696e7374616772616d" data-canonical-src="https://img.shields.io/badge/instagram-%23000000.svg?&style-for-the-badge&logo=instagram&logoColor=white%20alt=instagram" style="max-width: 100%;">
+  </a>
+  
+  <a href="https://Sirajulhaq.substack.com" rel="nofollow">
+    <img src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=orange" alt="Substack Blog" data-canonical-src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" style="max-width: 100%;">
   </a>
 <!--  <a href="#" rel="nofollow">
     <img src="https://camo.githubusercontent.com/69e4def 652d626" alt="f acebook" data-canonical-src="https://img.shields.io/badge/facebook-%23 2E87FB.svg?&style-for-the-badge&logo=facebook&logoColor=white" style= "max-width: 100%;">
