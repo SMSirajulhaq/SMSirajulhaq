@@ -39,21 +39,23 @@ data-canonical-src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?
     <img src="https://camo.githubusercontent.com/10163c8 6573266" data-nical-src="https://img.shields.io/badge/%20- RESUME-lightgrey.sv g?&style-for-the-badge&logo-healthinesses&logoColor=blueviolet%20alt-w ebsite" style="max-width: 100%;"> 
   </a> --> 
   <a href="https://twitter.com/sirajulhaq_in" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/d31f8f214d3b6695a172ef98e23c1b02fd26063ac085cf22b90e9a943c3724ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333030616365652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;">
   </a>
   <a href="https://linkedin.com/in/syedmohammedsirajulhaq" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/940cec181d9617509ad8a6cfac607b4ddf5fcc02dd3bf17590d1888f2bb070c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style= "max-width: 100%;">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style= "max-width: 100%;">
   </a>
   <a href="https://Sirajulhaq.substack.com" rel="nofollow">
     <img src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" alt="Substack Blog" data-canonical-src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" style="max-width: 100%;">
   </a>
   <a href="https://instagram.com/s.m.sirajulhaq" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/b7d786f87909f9592878dacf644337d6791e6cce6b761934cc5bb56d81c8cc82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d626c756576696f6c6574253230616c743d696e7374616772616d" data-canonical-src="https://img.shields.io/badge/instagram-%23000000.svg?&s tyle-for-the-badge&logo=instagram&logoColor=blueviolet%20alt=instagra m" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style-for-the-badge&logo=instagram&logoColor=blueviolet%20alt=instagram" data-canonical-src="https://img.shields.io/badge/instagram-%23000000.svg?&style-for-the-badge&logo=instagram&logoColor=blueviolet%20alt=instagram" style="max-width: 100%;">
   </a>
 <!--  <a href="#" rel="nofollow">
     <img src="https://camo.githubusercontent.com/69e4def 652d626" alt="f acebook" data-canonical-src="https://img.shields.io/badge/facebook-%23 2E87FB.svg?&style-for-the-badge&logo=facebook&logoColor=white" style= "max-width: 100%;">
   </a> -->
 </div>
+
+
 
 <!---
 SMSirajulhaq/SMSirajulhaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
