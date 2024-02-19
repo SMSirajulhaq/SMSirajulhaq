@@ -53,7 +53,7 @@ data-canonical-src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?
   </a>
   
   <a href="https://Sirajulhaq.substack.com" rel="nofollow">
-    <img src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=orange" alt="Substack Blog" data-canonical-src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=orange" alt="Substack Blog" data-canonical-src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" style="max-width: 120%;">
   </a>
 <!--  <a href="#" rel="nofollow">
     <img src="https://camo.githubusercontent.com/69e4def 652d626" alt="f acebook" data-canonical-src="https://img.shields.io/badge/facebook-%23 2E87FB.svg?&style-for-the-badge&logo=facebook&logoColor=white" style= "max-width: 100%;">
