@@ -21,7 +21,9 @@ Call/Text at +917032407568
 - Content Writing 
 - Startup Operations 
 
-<h2 dir="auto">
+<br>
+
+<h2 align="center" dir="auto">
   <a id="user-content-connect-with-me" class="anchor" aria-hidden="true" tabindex="-1" href="#connect-with-me">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
       <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
@@ -48,12 +50,12 @@ data-canonical-src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?
     <img src="https://img.shields.io/badge/%20-linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style= "max-width: 100%;">
   </a>
 
-<br>
-
   <a href="https://instagram.com/s.m.sirajulhaq" rel="nofollow">
     <img src="https://camo.githubusercontent.com/b7d786f87909f9592878dacf644337d6791e6cce6b761934cc5bb56d81c8cc82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d626c756576696f6c6574253230616c743d696e7374616772616d" data-canonical-src="https://img.shields.io/badge/instagram-%23000000.svg?&style-for-the-badge&logo=instagram&logoColor=white%20alt=instagram" style="max-width: 100%;">
   </a>
   
+<br>
+
   <a href="https://Sirajulhaq.substack.com" rel="nofollow">
     <img src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=orange" alt="Substack Blog" data-canonical-src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" style="max-width: 120%;">
   </a>
