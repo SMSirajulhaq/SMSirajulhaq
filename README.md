@@ -1,8 +1,9 @@
 <h1>Hello World, I’m Siraj! </h1>
 
-I'm interested in Civil Engineering & Entrepreneurship. Currently building Cupping.app and Sirajulhaq.in 
+<h3>I'm interested in Civil Engineering & Entrepreneurship—currently building Cupping.app and Sirajulhaq.in</h3>
 <br> Call/Text at +917032407568 
-<br> <br> 
+<br> 
+<br> 
 
 <h2 align="center" dir="auto">Core team - Cuppng.app | Author - Transcribing Self | Civil Engineer - Independent</h2>
 
