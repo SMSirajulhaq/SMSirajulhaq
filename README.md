@@ -14,6 +14,7 @@
 - Focuses on merging creativity and technology for innovative solutions.
 
 <h3>Areas of expertise</h3>
+
 - Floor Planning 
 - Site Execution 
 - Content Writing 
