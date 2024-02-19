@@ -5,7 +5,7 @@ Call/Text at <a href="https://wa.me/+917032407568">7032407568</a>
 <br> 
 <br> 
 
-<h3 align="center" dir="auto">Core team - <a href="https://cupping.app">Cupping.app</a> | Author - <a href="sirajulhaq.substack.com">Transcribing Self</a> | Civil Engineer - 
+<h3 align="center" dir="auto">Core team - <a href="https://cupping.app">Cupping.app</a> | Author - <a href="https://sirajulhaq.substack.com">Transcribing Self</a> | Civil Engineer - 
 <a href="https://sirajulhaq.in">Independent</a></h3>
 
 - Passionate Civil Engineer.
