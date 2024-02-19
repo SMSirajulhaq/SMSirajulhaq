@@ -1,11 +1,11 @@
 <h1>Hello World, I’m Siraj!</h1>
 
 <h3>I'm interested in Civil Engineering & Entrepreneurship—currently building Cupping.app and Sirajulhaq.in</h3>
-Call/Text at +917032407568 
+Call/Text at <a href="https://wa.me/+917032407568">7032407568</a>  
 <br> 
 <br> 
 
-<h3 align="center" dir="auto">Core team - <a href="https://cupping.app">Cupping.app</a> | Author - Transcribing Self | Civil Engineer - Independent</h3>
+<h3 align="center" dir="auto">Core team - <a href="https://cupping.app">Cupping.app</a> | Author - <a href="sirajulhaq.substack.com">Transcribing Self</a> | Civil Engineer - Independent</h3>
 
 - Passionate Civil Engineer.
 - Experienced in Construction Site Engineering, Retrofittng, and Floor Planning.
@@ -35,7 +35,7 @@ Call/Text at +917032407568
     <img src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?&style=for-the-badge&logo=healthinesses&logoColor=blueviolet%20alt=website" 
 data-canonical-src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?&style=for-the-badge&logo=healthinesses&logoColor=blueviolet%20alt=website" style="max-width: 100%;">
   </a>
-
+  
   <a href="https://twitter.com/sirajulhaq_in" rel="nofollow">
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;">
   </a>
