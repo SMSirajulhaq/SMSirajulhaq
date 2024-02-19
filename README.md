@@ -5,7 +5,7 @@ Call/Text at +917032407568
 <br> 
 <br> 
 
-<h2 align="center" dir="auto">Core team - Cuppng.app | Author - Transcribing Self | Civil Engineer - Independent</h2>
+<h3 align="center" dir="auto">Core team - <a href="https://cupping.app">Cupping.app</a> | Author - Transcribing Self | Civil Engineer - Independent</h3>
 
 - Passionate Civil Engineer.
 - Experienced in Construction Site Engineering, Retrofittng, and Floor Planning.
