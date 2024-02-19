@@ -42,7 +42,7 @@ data-canonical-src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;">
   </a>
   <a href="https://linkedin.com/in/syedmohammedsirajulhaq" rel="nofollow">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style= "max-width: 100%;">
+    <img src="https://img.shields.io/badge/%20-linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style= "max-width: 100%;">
   </a>
   <a href="https://Sirajulhaq.substack.com" rel="nofollow">
     <img src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=orange" alt="Substack Blog" data-canonical-src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" style="max-width: 100%;">
