@@ -1,7 +1,7 @@
-Hello World, I’m Siraj! 
-
+<h1>Hello World, I’m Siraj! </h1>
 <h3>I'm interested in Civil Engineering & Entrepreneurship. Currently building Cupping.app and Sirajulhaq.in 
 <br> Call/Text at +917032407568 </h3>
+
 
 <h2 align="center" dir="auto">Core team - Cuppng.app | Author - Transcribing Self | Civil Engineer - Independent</h2>
 
