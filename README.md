@@ -5,6 +5,7 @@
 <h3 align="center" dir="auto" target="_blank">Core team - <a href="https://cupping.app" target="_blank">Cupping.app</a> | Author - <a href="https://sirajulhaq.substack.com" target="_blank">Transcribing Self</a> | Civil Engineer - 
 <a href="https://sirajulhaq.in">Independent</a></h3>
 
+<h2>About me</h2>
 - Passionate Civil Engineer.
 - Experienced in Construction Site Engineering, Retrofittng, and Floor Planning.
 - Well known for effective work in teams.
@@ -12,7 +13,7 @@
 - Committed to continuous learning, particularly in Engineering & Entrepreneurship.
 - Focuses on merging creativity and technology for innovative solutions.
 
-<h3>Areas of expertise</h3>
+<h2>Areas of expertise</h2>
 
 - 🏢 Floor Planning 
 - 🚧 Site Execution 
