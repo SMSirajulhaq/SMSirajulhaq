@@ -1,9 +1,6 @@
 <h1>Hello World, I’m Siraj!</h1>
 
 <h3>I'm interested in Civil Engineering & Entrepreneurship—currently building Cupping.app and Sirajulhaq.in</h3>
-Call/Text at <a href="https://wa.me/+917032407568" target="_blank">7032407568</a>  
-<br> 
-<br> 
 
 <h3 align="center" dir="auto" target="_blank">Core team - <a href="https://cupping.app" target="_blank">Cupping.app</a> | Author - <a href="https://sirajulhaq.substack.com" target="_blank">Transcribing Self</a> | Civil Engineer - 
 <a href="https://sirajulhaq.in">Independent</a></h3>
@@ -53,7 +50,10 @@ data-canonical-src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?
 
   <a href="https://Sirajulhaq.substack.com" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=orange" alt="Substack Blog" data-canonical-src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" style="max-width: 120%;">
-  </a>
+  </a> 
+<br> 
+  <h4>Call/Text at <a href="https://wa.me/+917032407568" target="_blank">7032407568</a>  
+</h4> 
 <!--<a href="#" rel="nofollow">
       <img src="https://camo.githubusercontent.com/10163c8 6573266" data-nical-src="https://img.shields.io/badge/%20- RESUME-lightgrey.sv g?&style-for-the-badge&logo-healthinesses&logoColor=blueviolet%20alt-w ebsite" style="max-width: 100%;"> 
     </a>
