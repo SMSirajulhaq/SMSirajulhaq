@@ -63,12 +63,8 @@ data-canonical-src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?
     </a> -->
 </div>
 
-  <h3> Creating a Nested Webpage using 
-  'iframe' Tag: Geeksforgeeks
-  </h3>
-
-  <iframe src="https://instagram.com/s.m.sirajulhaq" height="500px" width="1000px">
-  </iframe>
+  <h3>Nesting my Instagram Webpage </h3>
+  <iframe src="https://instagram.com/s.m.sirajulhaq" height="500px" width="1000px"></iframe>
 
 <!---
 SMSirajulhaq/SMSirajulhaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
