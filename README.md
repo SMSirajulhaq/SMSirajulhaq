@@ -20,6 +20,12 @@
 - ✍🏻 Content Writing 
 - ⚙️ Startup Operations 
 
+<h2>Civil Engineering Projects</h2> 
+
+- 📝 Floorplans - 2 
+- 🏗️ Construction - 1 (G+1) 
+- ✨ Renovation - 1 (G+1) 
+
 <h2 align="center" dir="auto">
   <a id="user-content-connect-with-me" class="anchor" aria-hidden="true" tabindex="-1" href="#connect-with-me">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
