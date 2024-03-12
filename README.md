@@ -7,12 +7,12 @@
 
 <h2>About me</h2> 
 
-- Passionate Civil Engineer 
-- Experienced in Construction Site Engineering, Retrofittng, and Floor Planning 
-- Well known for effective work in teams 
-- Adept at managing multiple projects in dynamic environments 
-- Committed to continuous learning, particularly in Engineering & Entrepreneurship 
-- Focuses on merging creativity and technology for innovative solutions 
+- 👷 Passionate Civil Engineer 
+- 🏗️ Experienced in Construction Site Engineering, Retrofittng, and Floor Planning 
+- 🫂 Well known for effective work in teams 
+- 📝 Adept at managing multiple projects in dynamic environments 
+- 📈 Committed to continuous learning, particularly in Engineering & Entrepreneurship 
+- 🛠️ Focused on merging creativity and technology for innovative solutions to real-world problems 
 
 <h2>Areas of expertise</h2>
 
@@ -23,9 +23,9 @@
 
 <h2>Civil Engineering Projects</h2> 
 
-- 📝 Floorplans - 3 
-- 🏗️ Construction Project(s) - 1 (G+1) 
-- ✨ Renovation Project(s) - 1 (G+1) 
+- Floorplans - 3 
+- Construction Project(s) - 1 (G+1) 
+- Renovation Project(s) - 1 (G+1) 
 
 <h2 align="center" dir="auto">
   <a id="user-content-connect-with-me" class="anchor" aria-hidden="true" tabindex="-1" href="#connect-with-me">
