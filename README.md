@@ -23,9 +23,9 @@
 
 <h2>Civil Engineering Projects</h2> 
 
-- 📝 Floorplans - 2 
-- 🏗️ Construction - 1 (G+1) 
-- ✨ Renovation - 1 (G+1) 
+- 📝 Floorplans - 3 
+- 🏗️ Construction Project(s) - 1 (G+1) 
+- ✨ Renovation Project(s) - 1 (G+1) 
 
 <h2 align="center" dir="auto">
   <a id="user-content-connect-with-me" class="anchor" aria-hidden="true" tabindex="-1" href="#connect-with-me">
