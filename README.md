@@ -5,7 +5,8 @@
 <h3 align="center" dir="auto" target="_blank">Core team - <a href="https://cupping.app" target="_blank">Cupping.app</a> | Author - <a href="https://sirajulhaq.substack.com" target="_blank">Transcribing Self</a> | Civil Engineer - 
 <a href="https://sirajulhaq.in">Independent</a></h3>
 
-<h2>About me</h2>
+<h2>About me</h2> 
+
 - Passionate Civil Engineer <br>
 - Experienced in Construction Site Engineering, Retrofittng, and Floor Planning <br>
 - Well known for effective work in teams <br>
