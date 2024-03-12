@@ -7,12 +7,12 @@
 
 <h2>About me</h2> 
 
-- Passionate Civil Engineer <br>
-- Experienced in Construction Site Engineering, Retrofittng, and Floor Planning <br>
-- Well known for effective work in teams <br>
-- Adept at managing multiple projects in dynamic environments <br>
-- Committed to continuous learning, particularly in Engineering & Entrepreneurship <br>
-- Focuses on merging creativity and technology for innovative solutions <br>
+- Passionate Civil Engineer 
+- Experienced in Construction Site Engineering, Retrofittng, and Floor Planning 
+- Well known for effective work in teams 
+- Adept at managing multiple projects in dynamic environments 
+- Committed to continuous learning, particularly in Engineering & Entrepreneurship 
+- Focuses on merging creativity and technology for innovative solutions 
 
 <h2>Areas of expertise</h2>
 
