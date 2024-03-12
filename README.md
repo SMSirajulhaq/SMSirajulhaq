@@ -48,7 +48,7 @@ data-canonical-src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?
 
 <br>
 
-  <a href="https://linkedin.com/in/syedmohammedsirajulhaq" target="_blank" rel="nofollow">
+  <a href="https://linkedin.com/in/smsirajulhaq" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/%20-linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style= "max-width: 100%;">
   </a>
 
