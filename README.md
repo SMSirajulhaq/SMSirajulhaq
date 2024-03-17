@@ -8,7 +8,7 @@
 <h2>About me</h2> 
 
 - 👷 Passionate Civil Engineer 
-- 🏗️ Experienced in Construction Site Engineering, Retrofittng, and Floor Planning 
+- 🏗️ Experienced in Construction Site Engineering, Renovation, and Floor Planning 
 - 🫂 Well known for effective work in teams 
 - 📝 Adept at managing multiple projects in dynamic environments 
 - 📈 Committed to continuous learning, particularly in Engineering & Entrepreneurship 
