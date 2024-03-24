@@ -59,7 +59,7 @@ data-canonical-src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?
 <br>
 
   <a href="https://Sirajulhaq.substack.com" target="_blank" rel="nofollow">
-    <img src="https://substackcdn.com/image/fetch/w_500,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack_wordmark.png" alt="Substack Blog" data-canonical-src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" style="max-width: 120%;">
+    <img src="https://substackcdn.com/image/fetch/w_500,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack_wordmark.png" width="200px" height="40px" alt="Substack Blog" data-canonical-src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" style="max-width: 120%;">
   </a> 
 <br> 
   <h3>Call/Text: <a href="https://wa.me/+917032407568" target="_blank">+91 70324 07568</a></h4>
