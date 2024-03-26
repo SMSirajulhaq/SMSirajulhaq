@@ -42,7 +42,7 @@
   </a>
 
   <a href="https://twitter.com/sirajulhaq_in" target="_blank" rel="nofollow">
-    <img src="https://freepngimg.com/thumb/twitter/8-2-twitter-png-hd.png" width="250px" height="40px" alt="Twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;">
+    <img src="https://freepngimg.com/thumb/twitter/8-2-twitter-png-hd.png" width="200px" height="50px" alt="Twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;">
   </a>
 
 <br>
