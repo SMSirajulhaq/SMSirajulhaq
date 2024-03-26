@@ -38,7 +38,7 @@
 
 <div align="center" dir="auto"> 
   <a href="https://sirajulhaq.in" target="_blank" rel="nofollow">
-    <img src="https://imgur.com/jNA0u9N" data-canonical-src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?&style=for-the-badge&logo=healthinesses&logoColor=blueviolet%20alt=website" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/57203977f3fa83e88ec66f6f3557fbb8bb18558dd4ebb746bd5d8157c6cd14d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302df09f8c90576562736974652d626c756576696f6c65742e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6865616c7468696e6573736573266c6f676f436f6c6f723d626c756576696f6c6574253230616c743d77656273697465" data-canonical-src="https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?&style=for-the-badge&logo=healthinesses&logoColor=blueviolet%20alt=website" style="max-width: 100%;">
   </a>
 
   <a href="https://twitter.com/sirajulhaq_in" target="_blank" rel="nofollow">
