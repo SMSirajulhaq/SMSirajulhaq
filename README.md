@@ -42,7 +42,7 @@
   </a>
 
   <a href="https://twitter.com/sirajulhaq_in" target="_blank" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/d31f8f214d3b6695a172ef98e23c1b02fd26063ac085cf22b90e9a943c3724ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333030616365652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" width="200px" height="75px" alt="Twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/d31f8f214d3b6695a172ef98e23c1b02fd26063ac085cf22b90e9a943c3724ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333030616365652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;">
   </a>
 
 <br>
@@ -58,7 +58,7 @@
 <br>
 
   <a href="https://Sirajulhaq.substack.com" target="_blank" rel="nofollow">
-    <img src="https://substackcdn.com/image/fetch/w_500,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack_wordmark.png" width="250px" height="40px" alt="Substack Blog" data-canonical-src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" style="max-width: 120%;">
+    <img src="https://substackcdn.com/image/fetch/w_500,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack_wordmark.png" width="100px" height="20px" alt="Substack Blog" data-canonical-src="https://img.shields.io/badge/%20-SUBSTACK-in%20formational.svg?&style-for-the-badge&logo=substack&logoColor=white" style="max-width: 120%;">
   </a> 
 <br> 
   <h3>Call/Text: <a href="https://wa.me/+917032407568" target="_blank">+91 70324 07568</a></h4>
